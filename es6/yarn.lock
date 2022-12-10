@@ -6570,7 +6570,7 @@ minimist@^1.1.0, minimist@^1.1.1, minimist@^1.1.3, minimist@^1.2.0:
 
 minimist@~0.0.1:
   version "0.0.10"
-  resolved "http://registry.npmjs.org/minimist/-/minimist-0.0.10.tgz#de3f98543dbf96082be48ad1a0c7cda836301dcf"
+  resolved "https://registry.npmjs.org/minimist/-/minimist-0.0.10.tgz#de3f98543dbf96082be48ad1a0c7cda836301dcf"
 
 minipass@^2.2.1, minipass@^2.3.3:
   version "2.3.4"
@@ -7025,7 +7025,7 @@ once@^1.3.0, once@^1.3.1, once@^1.3.3, once@^1.4.0:
 
 onetime@^1.0.0:
   version "1.1.0"
-  resolved "http://registry.npmjs.org/onetime/-/onetime-1.1.0.tgz#a1f7838f8314c516f05ecefcbc4ccfe04b4ed789"
+  resolved "https://registry.npmjs.org/onetime/-/onetime-1.1.0.tgz#a1f7838f8314c516f05ecefcbc4ccfe04b4ed789"
 
 onetime@^2.0.0:
   version "2.0.1"
@@ -7910,8 +7910,9 @@ qs@6.5.1:
   resolved "https://registry.npmjs.org/qs/-/qs-6.5.1.tgz#349cdf6eef89ec45c12d7d5eb3fc0c870343a6d8"
 
 qs@~6.4.0:
-  version "6.4.0"
-  resolved "https://registry.npmjs.org/qs/-/qs-6.4.0.tgz#13e26d28ad6b0ffaa91312cd3bf708ed351e7233"
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.1.tgz#2bad97710a5b661c366b378b1e3a44a592ff45e6"
+  integrity sha512-LQy1Q1fcva/UsnP/6Iaa4lVeM49WiOitu2T4hZCyA/elLKu37L99qcBJk4VCCk+rdLvnMzfKyiN3SZTqdAZGSQ==
 
 qs@~6.5.2:
   version "6.5.2"
@@ -9187,7 +9188,7 @@ symbol-tree@^3.2.2:
 
 table@^4.0.3:
   version "4.0.3"
-  resolved "http://registry.npmjs.org/table/-/table-4.0.3.tgz#00b5e2b602f1794b9acaf9ca908a76386a7813bc"
+  resolved "https://registry.npmjs.org/table/-/table-4.0.3.tgz#00b5e2b602f1794b9acaf9ca908a76386a7813bc"
   dependencies:
     ajv "^6.0.1"
     ajv-keywords "^3.0.0"
