@@ -3194,7 +3194,7 @@ from2@^2.1.0:
 
 fs-extra@~0.16.3:
   version "0.16.5"
-  resolved "http://registry.npmjs.org/fs-extra/-/fs-extra-0.16.5.tgz#1ad661fa6c86c9608cd1b49efc6fce834939a750"
+  resolved "https://registry.npmjs.org/fs-extra/-/fs-extra-0.16.5.tgz#1ad661fa6c86c9608cd1b49efc6fce834939a750"
   dependencies:
     graceful-fs "^3.0.5"
     jsonfile "^2.0.0"
@@ -3719,7 +3719,7 @@ html-minifier@^3.2.3, html-minifier@^3.5.5:
 
 html-webpack-plugin@^3.2.0:
   version "3.2.0"
-  resolved "http://registry.npmjs.org/html-webpack-plugin/-/html-webpack-plugin-3.2.0.tgz#b01abbd723acaaa7b37b6af4492ebda03d9dd37b"
+  resolved "https://registry.npmjs.org/html-webpack-plugin/-/html-webpack-plugin-3.2.0.tgz#b01abbd723acaaa7b37b6af4492ebda03d9dd37b"
   dependencies:
     html-minifier "^3.2.3"
     loader-utils "^0.2.16"
@@ -6128,8 +6128,9 @@ qs@6.5.1:
   resolved "https://registry.npmjs.org/qs/-/qs-6.5.1.tgz#349cdf6eef89ec45c12d7d5eb3fc0c870343a6d8"
 
 qs@~6.4.0:
-  version "6.4.0"
-  resolved "https://registry.npmjs.org/qs/-/qs-6.4.0.tgz#13e26d28ad6b0ffaa91312cd3bf708ed351e7233"
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.1.tgz#2bad97710a5b661c366b378b1e3a44a592ff45e6"
+  integrity sha512-LQy1Q1fcva/UsnP/6Iaa4lVeM49WiOitu2T4hZCyA/elLKu37L99qcBJk4VCCk+rdLvnMzfKyiN3SZTqdAZGSQ==
 
 qs@~6.5.2:
   version "6.5.2"
@@ -7274,7 +7275,7 @@ symbol-observable@^1.1.0:
 
 table@^4.0.3:
   version "4.0.3"
-  resolved "http://registry.npmjs.org/table/-/table-4.0.3.tgz#00b5e2b602f1794b9acaf9ca908a76386a7813bc"
+  resolved "https://registry.npmjs.org/table/-/table-4.0.3.tgz#00b5e2b602f1794b9acaf9ca908a76386a7813bc"
   dependencies:
     ajv "^6.0.1"
     ajv-keywords "^3.0.0"
